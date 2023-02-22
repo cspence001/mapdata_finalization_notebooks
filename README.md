@@ -1,5 +1,5 @@
 # mapdata_finalization_notebooks
-geocoding api, hashing, labeling<br></h6>
+geocoding api, hashing, labeling<br>
 
 
 <h6>file_update.ipynb - public database updating <br><br>
