@@ -7,7 +7,7 @@ file_update.ipynb - public database updating <br><br>
 
 main_HASHING.ipynb - hash sequencing variables <br>
 
-main_concat.ipynb - finalization of state db's <br>
+main_concat.ipynb - finalization of state database files <br>
 
 main_label_geo.ipynb - main geocoding <br>
 
