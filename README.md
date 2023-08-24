@@ -1,18 +1,4 @@
 # mapdata_finalization_notebooks
-geocoding api, hashing, labeling<br>
-
-
-<h6>
-file_update.ipynb - public database updating <br><br>
-
-main_HASHING.ipynb - hash sequencing variables <br>
-
-main_concat.ipynb - finalization of state database files <br>
-
-main_label_geo.ipynb - main geocoding <br>
-
-
-Repo: **mapdata_finalization_notebooks**
 
 **Processes Raw Data obtained from SBA Public Data Directory for the
 release of PPP Loan Data in 2021 and 2023.**
