@@ -18,46 +18,6 @@ release of PPP Loan Data in 2021 and 2023.**
 > finalized output to be used in state aggregation.
 
 **Updates/comparisons**
-
-> **<u>column_value_checks.ipynb</u> –** Exploratory Data Post Pipe
-> process:
->
-> DataFrame: (Grouped) SBA Office Label, Code, (Aggregated) Loan
-> Number(count).
->
-> Plot: Box, SBA Office Label vs Current Approval Amount(sum)
->
-> DataFrame: Grouped (Borrower State), (Aggregated) Loan Count, Current
-> Approval Amount, Average Loan Amount
->
-> Plot: Box, Borrower State vs Current Approval Amount (values)
->
-> Plot: Bar, Borrower State vs Current Approval Amount (sum)
->
-> DataFrame: (Grouped) Servicing Lender, Location ID, (Aggregated) Loan
-> Number(count), Current Approval Amount(sum), Average Loan Amount
->
-> DataFrame: (Grouped) Originating Lender, Location ID, (Aggregated)
-> Loan Number(count), Current Approval Amount(sum), Average Loan Amount
->
-> DataFrame: Lender Match, filtered where Servicing Lender !=
-> Originating Lender
->
-> DataFrame: From filtered Lender Match DataFrame (Grouped) Servicing
-> Lender, Location ID, Originating Lender, (Aggregated) Loan
-> Number(count), Current Approval Amount(sum), Estimated Lender Profit
-> (sum)
->
-> DataFrame: (Grouped) Date Approved, (Aggregated) Loan Number (count)
->
-> Plot: Scatter, Date Approved (x), Loan Number (count) (y) for Selected
-> Range
->
-> DataFrame: (Grouped) Date Approved, (Aggregated) Count Each State
-> Column on Date
->
-> Plot: Scatter, Date Approved (x), State Columns (count) (y) for
-> Selected Range based on Data Available.
 >
 > **<u>process_checks.ipynb</u> –** Comparison Check of File Size,
 > Columns (Names/Count), Row Counts, dtypes for all main script process
@@ -73,3 +33,44 @@ release of PPP Loan Data in 2021 and 2023.**
 >
 > **<u>null_updates.ipynb</u> –** Outputting of files for select columns
 > containing Null values.
+>
+> **<u>column_value_checks.ipynb</u> –** Exploratory Data Post Pipe
+> process:
+>
+  > DataFrame: (Grouped) SBA Office Label, Code, (Aggregated) Loan
+  > Number(count).
+  >
+  > Plot: Box, SBA Office Label vs Current Approval Amount(sum)
+  >
+  > DataFrame: Grouped (Borrower State), (Aggregated) Loan Count, Current
+  > Approval Amount, Average Loan Amount
+  >
+  > Plot: Box, Borrower State vs Current Approval Amount (values)
+  >
+  > Plot: Bar, Borrower State vs Current Approval Amount (sum)
+  >
+  > DataFrame: (Grouped) Servicing Lender, Location ID, (Aggregated) Loan
+  > Number(count), Current Approval Amount(sum), Average Loan Amount
+  >
+  > DataFrame: (Grouped) Originating Lender, Location ID, (Aggregated)
+  > Loan Number(count), Current Approval Amount(sum), Average Loan Amount
+  >
+  > DataFrame: Lender Match, filtered where Servicing Lender !=
+  > Originating Lender
+  >
+  > DataFrame: From filtered Lender Match DataFrame (Grouped) Servicing
+  > Lender, Location ID, Originating Lender, (Aggregated) Loan
+  > Number(count), Current Approval Amount(sum), Estimated Lender Profit
+  > (sum)
+  >
+  > DataFrame: (Grouped) Date Approved, (Aggregated) Loan Number (count)
+  >
+  > Plot: Scatter, Date Approved (x), Loan Number (count) (y) for Selected
+  > Range
+  >
+  > DataFrame: (Grouped) Date Approved, (Aggregated) Count Each State
+  > Column on Date
+  >
+  > Plot: Scatter, Date Approved (x), State Columns (count) (y) for
+  > Selected Range based on Data Available.
+  
