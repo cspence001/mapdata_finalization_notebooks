@@ -1,0 +1,5 @@
+{
+    "aws.codeWhisperer.importRecommendation": false,
+    "aws.codeWhisperer.includeSuggestionsWithCodeReferences": false,
+    "aws.telemetry": false
+}
