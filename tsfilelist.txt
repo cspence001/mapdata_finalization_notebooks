@@ -1,28 +1,29 @@
-	Aug  9 02:13:12 2023 mapdata_finalization_notebooks//main_concat.ipynb
-	Aug 23 23:21:05 2023 mapdata_finalization_notebooks//main_concat23.ipynb
-	Aug  7 23:49:02 2023 mapdata_finalization_notebooks//main_HASHING.ipynb
-	Aug  7 23:49:02 2023 mapdata_finalization_notebooks//main_HASHING_23.ipynb
-	Aug 22 18:32:42 2023 mapdata_finalization_notebooks//main_label_pipe.ipynb
-	Aug 23 23:21:05 2023 mapdata_finalization_notebooks//main_label_pipe_23.ipynb
-	Jul 14 03:22:17 2023 mapdata_finalization_notebooks//object_processing/ppp_hgpf_obj.ipynb
-	Jul 13 13:49:53 2023 mapdata_finalization_notebooks//object_processing/ppp_hgpf_obj_full.ipynb
-	Aug 23 23:21:05 2023 mapdata_finalization_notebooks//updates_comparisons/column_value_checks.ipynb
-	Aug 23 23:17:49 2023 mapdata_finalization_notebooks//updates_comparisons/figs/dateapproved_countstate.csv
-	Aug 23 23:12:26 2023 mapdata_finalization_notebooks//updates_comparisons/figs/LMcol23.csv
-	Aug 23 22:55:52 2023 mapdata_finalization_notebooks//updates_comparisons/figs/sbaCA.png
-	Aug 23 22:49:20 2023 mapdata_finalization_notebooks//updates_comparisons/figs/bsCAbar.png
-	Aug 23 23:16:56 2023 mapdata_finalization_notebooks//updates_comparisons/figs/dateapprovedcount.csv
-	Aug 23 22:51:07 2023 mapdata_finalization_notebooks//updates_comparisons/figs/bsCA.csv
-	Aug 23 23:02:44 2023 mapdata_finalization_notebooks//updates_comparisons/figs/slol_nomatch.csv
-	Aug 23 22:57:57 2023 mapdata_finalization_notebooks//updates_comparisons/figs/sbaCA.csv
-	Aug 23 21:22:54 2023 mapdata_finalization_notebooks//updates_comparisons/figs/bsCA.png
-	Aug 23 22:59:18 2023 mapdata_finalization_notebooks//updates_comparisons/figs/slCA.csv
-	Aug 23 23:10:48 2023 mapdata_finalization_notebooks//updates_comparisons/figs/address_diff23.csv
-	Aug 23 22:59:47 2023 mapdata_finalization_notebooks//updates_comparisons/figs/olCA.csv
-	Aug 22 17:53:20 2023 mapdata_finalization_notebooks//updates_comparisons/null_updates.ipynb
-	Aug 22 17:52:51 2023 mapdata_finalization_notebooks//updates_comparisons/process_checks.ipynb
-	Aug 22 17:50:38 2023 mapdata_finalization_notebooks//updates_comparisons/raw_compare.ipynb
-	Aug 23 23:21:05 2023 mapdata_finalization_notebooks//updates_comparisons/update_compare.ipynb
-
-
-
+	Mar  2 16:28:16 2023 1070 	mapdata_finalization_notebooks//LICENSE
+	Aug 23 23:21:05 2023 965758 	mapdata_finalization_notebooks//main_label_pipe_23.ipynb
+	Aug  7 23:49:02 2023 326923 	mapdata_finalization_notebooks//main_HASHING_23.ipynb
+	Aug 23 23:21:05 2023 134087 	mapdata_finalization_notebooks//main_concat23.ipynb
+	Aug 23 21:07:05 2023 2802 	mapdata_finalization_notebooks//README.md
+	Aug  7 23:49:02 2023 339641 	mapdata_finalization_notebooks//main_HASHING.ipynb
+	Aug 24 00:05:50 2023 472 	mapdata_finalization_notebooks//tsfilelist.txt
+	Aug 22 17:50:38 2023 248128 	mapdata_finalization_notebooks//updates_comparisons/raw_compare.ipynb
+	Aug 22 17:52:51 2023 274504 	mapdata_finalization_notebooks//updates_comparisons/process_checks.ipynb
+	Aug 23 23:17:49 2023 38561 	mapdata_finalization_notebooks//updates_comparisons/figs/dateapproved_countstate.csv
+	Aug 23 23:12:26 2023 756843 	mapdata_finalization_notebooks//updates_comparisons/figs/LMcol23.csv
+	Aug 23 22:55:52 2023 1006681 	mapdata_finalization_notebooks//updates_comparisons/figs/sbaCA.png
+	Aug 23 22:49:20 2023 30899 	mapdata_finalization_notebooks//updates_comparisons/figs/bsCAbar.png
+	Aug 23 23:16:56 2023 4579 	mapdata_finalization_notebooks//updates_comparisons/figs/dateapprovedcount.csv
+	Aug 23 22:51:07 2023 2365 	mapdata_finalization_notebooks//updates_comparisons/figs/bsCA.csv
+	Aug 23 23:02:44 2023 14131 	mapdata_finalization_notebooks//updates_comparisons/figs/slol_nomatch.csv
+	Aug 23 22:57:57 2023 3796 	mapdata_finalization_notebooks//updates_comparisons/figs/sbaCA.csv
+	Aug 23 21:22:54 2023 275352 	mapdata_finalization_notebooks//updates_comparisons/figs/bsCA.png
+	Aug 23 22:59:18 2023 321250 	mapdata_finalization_notebooks//updates_comparisons/figs/slCA.csv
+	Aug 23 23:10:48 2023 57819403 	mapdata_finalization_notebooks//updates_comparisons/figs/address_diff23.csv
+	Aug 23 22:59:47 2023 322745 	mapdata_finalization_notebooks//updates_comparisons/figs/olCA.csv
+	Aug 23 23:21:05 2023 38719 	mapdata_finalization_notebooks//updates_comparisons/update_compare.ipynb
+	Aug 22 17:53:20 2023 38049 	mapdata_finalization_notebooks//updates_comparisons/null_updates.ipynb
+	Aug 23 23:21:05 2023 2500148 	mapdata_finalization_notebooks//updates_comparisons/column_value_checks.ipynb
+	Aug 22 18:32:42 2023 803686 	mapdata_finalization_notebooks//main_label_pipe.ipynb
+	Aug  9 02:13:12 2023 110224 	mapdata_finalization_notebooks//main_concat.ipynb
+	Jul 14 03:22:17 2023 67989 	mapdata_finalization_notebooks//object_processing/ppp_hgpf_obj.ipynb
+	Jul 13 13:49:53 2023 37700 	mapdata_finalization_notebooks//object_processing/ppp_hgpf_obj_full.ipynb
+	Aug 23 23:58:36 2023 1676 	mapdata_finalization_notebooks//filelist.txt
