@@ -37,8 +37,8 @@ release of PPP Loan Data in 2021 and 2023.**
 > **<u>column_value_checks.ipynb</u> –** Exploratory Data Post Pipe
 > process:
 >
-  > DataFrame: (Grouped) SBA Office Label, Code, (Aggregated) Loan
-  > Number(count).
+  >> DataFrame: (Grouped) SBA Office Label, Code, (Aggregated) Loan
+  >> Number(count).
   >
   > Plot: Box, SBA Office Label vs Current Approval Amount(sum)
   >
