@@ -1,29 +1,27 @@
-	Mar  2 16:28:16 2023 1070 	mapdata_finalization_notebooks//LICENSE
-	Aug 23 23:21:05 2023 965758 	mapdata_finalization_notebooks//main_label_pipe_23.ipynb
-	Aug  7 23:49:02 2023 326923 	mapdata_finalization_notebooks//main_HASHING_23.ipynb
-	Aug 23 23:21:05 2023 134087 	mapdata_finalization_notebooks//main_concat23.ipynb
-	Aug 23 21:07:05 2023 2802 	mapdata_finalization_notebooks//README.md
-	Aug  7 23:49:02 2023 339641 	mapdata_finalization_notebooks//main_HASHING.ipynb
-	Aug 24 00:05:50 2023 472 	mapdata_finalization_notebooks//tsfilelist.txt
-	Aug 22 17:50:38 2023 248128 	mapdata_finalization_notebooks//updates_comparisons/raw_compare.ipynb
-	Aug 22 17:52:51 2023 274504 	mapdata_finalization_notebooks//updates_comparisons/process_checks.ipynb
-	Aug 23 23:17:49 2023 38561 	mapdata_finalization_notebooks//updates_comparisons/figs/dateapproved_countstate.csv
-	Aug 23 23:12:26 2023 756843 	mapdata_finalization_notebooks//updates_comparisons/figs/LMcol23.csv
-	Aug 23 22:55:52 2023 1006681 	mapdata_finalization_notebooks//updates_comparisons/figs/sbaCA.png
-	Aug 23 22:49:20 2023 30899 	mapdata_finalization_notebooks//updates_comparisons/figs/bsCAbar.png
-	Aug 23 23:16:56 2023 4579 	mapdata_finalization_notebooks//updates_comparisons/figs/dateapprovedcount.csv
-	Aug 23 22:51:07 2023 2365 	mapdata_finalization_notebooks//updates_comparisons/figs/bsCA.csv
-	Aug 23 23:02:44 2023 14131 	mapdata_finalization_notebooks//updates_comparisons/figs/slol_nomatch.csv
-	Aug 23 22:57:57 2023 3796 	mapdata_finalization_notebooks//updates_comparisons/figs/sbaCA.csv
-	Aug 23 21:22:54 2023 275352 	mapdata_finalization_notebooks//updates_comparisons/figs/bsCA.png
-	Aug 23 22:59:18 2023 321250 	mapdata_finalization_notebooks//updates_comparisons/figs/slCA.csv
-	Aug 23 23:10:48 2023 57819403 	mapdata_finalization_notebooks//updates_comparisons/figs/address_diff23.csv
-	Aug 23 22:59:47 2023 322745 	mapdata_finalization_notebooks//updates_comparisons/figs/olCA.csv
-	Aug 23 23:21:05 2023 38719 	mapdata_finalization_notebooks//updates_comparisons/update_compare.ipynb
-	Aug 22 17:53:20 2023 38049 	mapdata_finalization_notebooks//updates_comparisons/null_updates.ipynb
-	Aug 23 23:21:05 2023 2500148 	mapdata_finalization_notebooks//updates_comparisons/column_value_checks.ipynb
-	Aug 22 18:32:42 2023 803686 	mapdata_finalization_notebooks//main_label_pipe.ipynb
-	Aug  9 02:13:12 2023 110224 	mapdata_finalization_notebooks//main_concat.ipynb
-	Jul 14 03:22:17 2023 67989 	mapdata_finalization_notebooks//object_processing/ppp_hgpf_obj.ipynb
-	Jul 13 13:49:53 2023 37700 	mapdata_finalization_notebooks//object_processing/ppp_hgpf_obj_full.ipynb
-	Aug 23 23:58:36 2023 1676 	mapdata_finalization_notebooks//filelist.txt
+"mapdata_finalization_notebooks/LICENSE";"1.0K";"Mar  2 16:28:16 2023";
+"mapdata_finalization_notebooks/README.md";"2.7K";"Aug 23 21:07:05 2023";
+"mapdata_finalization_notebooks/main_concat.ipynb";"108K";"Aug  9 02:13:12 2023";
+"mapdata_finalization_notebooks/main_concat23.ipynb";"131K";"Aug 23 23:21:05 2023";
+"mapdata_finalization_notebooks/main_hashing.ipynb";"332K";"Aug  7 23:49:02 2023";
+"mapdata_finalization_notebooks/main_hashing23.ipynb";"319K";"Aug  7 23:49:02 2023";
+"mapdata_finalization_notebooks/main_label_pipe.ipynb";"785K";"Aug 22 18:32:42 2023";
+"mapdata_finalization_notebooks/main_label_pipe23.ipynb";"943K";"Aug 23 23:21:05 2023";
+"mapdata_finalization_notebooks/object_processing/ppp_hgpf_obj.ipynb";"66K";"Jul 14 03:22:17 2023";
+"mapdata_finalization_notebooks/object_processing/ppp_hgpf_obj_full.ipynb";"37K";"Jul 13 13:49:53 2023";
+"mapdata_finalization_notebooks/updates_comparisons/column_value_checks.ipynb";"2.4M";"Aug 23 23:21:05 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/address_diff23.csv";"55M";"Aug 23 23:10:48 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/bsCA.csv";"2.3K";"Aug 23 22:51:07 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/bsCA.png";"269K";"Aug 23 21:22:54 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/bsCAbar.png";"30K";"Aug 23 22:49:20 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/dateapproved_countstate.csv";"38K";"Aug 23 23:17:49 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/dateapprovedcount.csv";"4.5K";"Aug 23 23:16:56 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/lmcol23.csv";"739K";"Aug 23 23:12:26 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/olCA.csv";"315K";"Aug 23 22:59:47 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/sbaCA.csv";"3.7K";"Aug 23 22:57:57 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/sbaCA.png";"983K";"Aug 23 22:55:52 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/slCA.csv";"314K";"Aug 23 22:59:18 2023";
+"mapdata_finalization_notebooks/updates_comparisons/figs/slol_nomatch.csv";"14K";"Aug 23 23:02:44 2023";
+"mapdata_finalization_notebooks/updates_comparisons/null_updates.ipynb";"37K";"Aug 22 17:53:20 2023";
+"mapdata_finalization_notebooks/updates_comparisons/process_checks.ipynb";"268K";"Aug 22 17:52:51 2023";
+"mapdata_finalization_notebooks/updates_comparisons/raw_compare.ipynb";"242K";"Aug 22 17:50:38 2023";
+"mapdata_finalization_notebooks/updates_comparisons/update_compare.ipynb";"38K";"Aug 23 23:21:05 2023";
