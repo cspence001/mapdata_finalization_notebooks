@@ -1,0 +1,31 @@
+"./LICENSE";"1.0K";
+"./README.md";"661B";
+"./doc/pipe_descriptions.docx";"20K"; Full Descriptions of Pipeline Process Notebooks (pipe, hash, concat)
+"./doc/pipeline.png";"216K"; Pipeline Process Flowchart
+"./doc/tsfilelist.txt";"0B"; File Listings, Sizes, Data Last Modified
+"./doc/tsfilelistdesc.txt";"4.0K"; File Descriptions
+"./doc/tsfilelistwd.txt";"2.9K"; File Listing including full working directory.
+"./main_concat.ipynb";"108K"; combines final outputs of main_label_pipe, main_hashing, and Geo processed FIPS files for finalized output..
+"./main_concat23.ipynb";"118K";
+"./main_hashing.ipynb";"332K"; creates HASHcode column for dataframe with variables for Industry, Industry Subsector, Loan Range, Job Range, Business Type, Business Age, and PPP/PPS program.
+"./main_hashing23.ipynb";"318K";
+"./main_label_pipe.ipynb";"785K"; processes raw data through pipeline of cleaning, formatting, and integrating associated data sources to expand on given database.
+"./main_label_pipe23.ipynb";"941K";
+"./object_processing/ppp_hgpf_obj.ipynb";"49K"; Test of variable object file separation / outputs. 
+"./object_processing/ppp_hgpf_obj_full.ipynb";"19K";
+"./review/dataviews/dataviews.ipynb";"2.3M"; Exploratory Data Post Pipe process:
+"./review/dataviews/figs/dateapproved_count.csv";"4.5K"; DataFrame: (Grouped) Date Approved, (Aggregated) Loan Number (count)
+"./review/dataviews/figs/dateapproved_state_df.csv";"38K"; DataFrame: (Grouped) Date Approved, (Aggregated) Count Each State Column on Date
+"./review/dataviews/figs/lender_nomatch_df.csv";"14K"; DataFrame: From filtered Lender Match DataFrame (Grouped) Servicing Lender, Location ID, Originating Lender, (Aggregated) Loan Number(count), Current Approval Amount(sum), Estimated Lender Profit (sum)
+"./review/dataviews/figs/lender_nomatch_list.csv";"739K"; DataFrame: Lender Match, filtered where Servicing Lender != Originating Lender
+"./review/dataviews/figs/originating_approval_df.csv";"315K"; DataFrame: (Grouped) Originating Lender, Location ID, (Aggregated) Loan Number(count), Current Approval Amount(sum), Average Loan Amount
+"./review/dataviews/figs/sba_approval_df.csv";"3.7K"; DataFrame: (Grouped) SBA Office Label, Code, (Aggregated) Loan Number(count).
+"./review/dataviews/figs/sba_approval_scat.png";"983K"; Plot: Box, SBA Office Label vs Current Approval Amount(sum)
+"./review/dataviews/figs/servicing_approval_df.csv";"314K"; DataFrame: (Grouped) Servicing Lender, Location ID, (Aggregated) Loan Number(count), Current Approval Amount(sum), Average Loan Amount
+"./review/dataviews/figs/state_approval_bar.png";"30K"; Plot: Bar, Borrower State vs Current Approval Amount (sum)
+"./review/dataviews/figs/state_approval_df.csv";"2.3K"; DataFrame: Grouped (Borrower State), (Aggregated) Loan Count, Current Approval Amount, Average Loan Amount
+"./review/dataviews/figs/state_approval_scat.png";"269K"; Plot: Box, Borrower State vs Current Approval Amount (values)
+"./review/null_updates.ipynb";"17K"; Outputting of files for select columns containing Null values.
+"./review/process_checks.ipynb";"268K"; Comparison Check of File Size, Columns (Names/Count), Row Counts, dtypes for all main script process inputs/outputs for 2021 and 2023 files. Includes overview of: Raw input files, ppp_pipe and ppp_pipe23, ppp_hash and ppp_hashSort, ppp_hpgf, ppp_geo, ppp_geo_fips.
+"./review/raw_compare.ipynb";"242K"; Comp of Raw 2021 and Raw 2023 file updates, changes, additions, deletions.
+"./review/update_compare.ipynb";"38K"; Addresses Differences (manual updates) raw 2023 > final 2023 output file.
