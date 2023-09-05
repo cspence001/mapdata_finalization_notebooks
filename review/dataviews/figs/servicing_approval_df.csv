@@ -1,4 +1,4 @@
-,ServicingLenderName,ServicingLenderLocationID,LoanNumber,CurrentApprovalAmount,EstimatedLenderProfit,AverageLoanAmount
+,ServicingLenderName,ServicingLenderLocationID,LoanNumber,CurrentApprovalAmount,LenderProfit,AverageLoanAmount
 2354,"JPMorgan Chase Bank, National Association",48270,57221,29786388834.07,915302720.62,520549.95253613184
 306,"Bank of America, National Association",9551,40259,20397367293.01,632420643.56,506653.6002635435
 2975,"PNC Bank, National Association",44449,25460,16499981848.11,453774717.33,648074.6994544384

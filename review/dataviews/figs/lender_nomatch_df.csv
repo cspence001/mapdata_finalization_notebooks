@@ -1,4 +1,4 @@
-,ServicingLenderName,ServicingLenderLocationID,OriginatingLender,LoanNumber,CurrentApprovalAmount,EstimatedLenderProfit,AverageLoanAmount
+,ServicingLenderName,ServicingLenderLocationID,OriginatingLender,LoanNumber,CurrentApprovalAmount,LenderProfit,AverageLoanAmount
 120,"PNC Bank, National Association",44449,First Source FCU,4932,3090522066.33,85386538.12,626626.5341301702
 97,Loan Source Incorporated,188567,Northeast Bank,5060,2218244718.98,78691681.74,438388.28438339924
 18,Customers Bank,121536,"Readycap Lending, LLC",3396,1433558214.89,48604374.18,422131.39425500593
