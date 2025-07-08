@@ -1,6 +1,6 @@
 # mapdata_finalization_notebooks
 
-## mapdata_finalization_notebooks
+## Repository Summary: mapdata_finalization_notebooks
 
 A comprehensive data processing pipeline for finalizing PPP (Paycheck Protection Program) loan data with geographic mapping and categorical encoding. The repository contains Jupyter notebooks that process raw PPP data through multiple stages:
 
